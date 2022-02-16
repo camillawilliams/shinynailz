@@ -5,6 +5,7 @@ import ReactDOM from 'react-dom';
 // import App from "./views/App";
 // import reportWebVitals from './reportWebVitals';
 import Home from './views/Home';
+ import './Jumbo.css';
 // import Jumbotron from "react-bootstrap/Jumbotron";
 
 ReactDOM.render(

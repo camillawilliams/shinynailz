@@ -1,5 +1,7 @@
 // import { render } from "@testing-library/react";
 import React from "react";
+// import './Jumbo.css';
+// import Pexels from 'pexels.jpg'
 import HomeJumbo from "../js/components/homejumbo";
 
 

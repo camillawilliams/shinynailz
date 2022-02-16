@@ -1,15 +1,15 @@
-import React from "react";
-// import logo from './logo.svg';
-import './App.css';
-import Button from "react-bootstrap/Button";
-import Home from "./views/Home";
+// import React from "react";
+// // import logo from './logo.svg';
+// import './App.css';
+// import Button from "react-bootstrap/Button";
+// import Home from "./views/Home";
 
- const App = () =>  {
+//  const App = () =>  {
 
-    return (
-        <div className="container">
-            <Home />
-        </div>
-    );
-};
-export default App;
+//     return (
+//         <div className="container">
+//             <Home />
+//         </div>
+//     );
+// };
+// export default App;
