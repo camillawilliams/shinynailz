@@ -5,12 +5,16 @@ import ReactDOM from 'react-dom';
 // import App from "./views/App";
 // import reportWebVitals from './reportWebVitals';
 import Home from './views/Home';
- import './Jumbo.css';
+// import CardDeck from "react-bootstrap/CardDeck"; 
+// import Cards from "./js/components/cards";
+import './Jumbo.css'; //needed to import the css for the image to display in jumbo
 // import Jumbotron from "react-bootstrap/Jumbotron";
 
 ReactDOM.render(
   <React.StrictMode>
      <Home />
+      {/* <Cards /> */}
+
   </React.StrictMode>,
   document.getElementById('root')
 );
