@@ -50,3 +50,4 @@ Card.propTypes = {
 	text: PropTypes.string,
 	footer: PropTypes.string
 };
+export default Card
