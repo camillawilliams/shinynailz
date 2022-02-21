@@ -5,7 +5,8 @@ import PropTypes from "prop-types";
 export function Card(props) {
 
     return (
-    <div className="row row-cols-1 row-cols-md-3 g-4">
+      <div className="container-1">
+    <div className="row row-cols-1 row-cols-md-3 g-3">
   <div className="col">
     <div className="card h-100">
       <img src="..." className="card-img-top" alt="..."></img>
@@ -42,6 +43,7 @@ export function Card(props) {
       </div>
     </div>
   </div>
+</div>
 </div>
 );
 }

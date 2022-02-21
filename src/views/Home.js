@@ -1,4 +1,4 @@
-// import { render } from "@testing-library/react";
+
 import React from "react";
 
 // import Pexels from 'pexels.jpg'
@@ -9,7 +9,7 @@ export const Home = () => {
    
     return (
         <div>
-			<div className="container"></div>
+			<div className="container-3"></div>
         <HomeJumbo />
         <div className="row">
 					<Card
@@ -19,27 +19,27 @@ export const Home = () => {
                         culpa natus architecto."
 						footer="Find out more!"
 					/>
-					<Card
+					{/* <Card
+						title="This is a Card Test!"
+						text="Lorem ipsum dolor sit amet, consectetur adipisicing
+						elit. Explicabo magni sapiente, tempore debitis beatae
+                        culpa natus architecto."
+						footer="Find out more!" */}
+					{/* /> */}
+					{/* <Card
 						title="This is a Card Test!"
 						text="Lorem ipsum dolor sit amet, consectetur adipisicing
 						elit. Explicabo magni sapiente, tempore debitis beatae
                         culpa natus architecto."
 						footer="Find out more!"
-					/>
-					<Card
+					/> */}
+					{/* <Card
 						title="This is a Card Test!"
 						text="Lorem ipsum dolor sit amet, consectetur adipisicing
 						elit. Explicabo magni sapiente, tempore debitis beatae
                         culpa natus architecto."
 						footer="Find out more!"
-					/>
-					<Card
-						title="This is a Card Test!"
-						text="Lorem ipsum dolor sit amet, consectetur adipisicing
-						elit. Explicabo magni sapiente, tempore debitis beatae
-                        culpa natus architecto."
-						footer="Find out more!"
-					/>
+					/> */}
 				</div>
 			</div>
         
