@@ -1,3 +1,20 @@
-.container-3{
-    justify-content: space-around;
+.container-top{
+   justify-content: center; 
+   margin-left: 50px;
+   margin-right: 100px;
+   margin-top: 20px;
   }
+
+.middle-container{
+  justify-content: center;
+   margin-left: 50px;
+   margin-right: 100px;
+   margin-top: 20px;
+}
+
+.bottom-container{
+  justify-content: center;
+   margin-left: 50px;
+   margin-right: 100px;
+   margin-top: 20px;
+}

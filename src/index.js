@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
 // import reportWebVitals from './reportWebVitals';
 import Home from './views/Home';
 // import CardDeck from "react-bootstrap/CardDeck"; 
-import Card from "./js/components/card";
+// import Card from "./js/components/card";
 import './Jumbo.css'; //needed to import the css for the image to display in jumbo
 import './Cards.css';
 
