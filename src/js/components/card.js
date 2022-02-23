@@ -58,6 +58,6 @@ Card.propTypes = {
 	title: PropTypes.string,
 	text: PropTypes.string,
 	footer: PropTypes.string,
-  // image: PropTypes.string
+  
 };
 export default Card

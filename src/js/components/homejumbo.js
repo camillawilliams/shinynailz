@@ -1,4 +1,5 @@
 import React from "react";
+import MyNavbar from "./mynavbar";
 // import Pexels from "./pexels.jpg";
 
 
@@ -11,6 +12,8 @@ export const HomeJumbo = () => (
 </div>
     <div className="container-header">
         <div className="col-sm-5">
+          <div className="container"></div>
+          <MyNavbar />
       <h1>Nail Gel Is The New Trend In The Beauty World</h1>
       
       {/* <div className="header-two"> */}
