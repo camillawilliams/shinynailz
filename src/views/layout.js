@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import ScrollToTop from "./component/scrollToTop";
 import { Home } from "./views/home";
-import MyNavbar from "../js/components/mynavbar";
+// import MyNavbar from "../js/components/mynavbar";
 
 
 
@@ -32,7 +32,7 @@ const Layout = () => {
 		// 	)}
 			<BrowserRouter basename={basename}>
 				<ScrollToTop>
-					<MyNavbar />
+					{/* <MyNavbar /> */}
 					<div
 						style={{
 							height: contentHeight

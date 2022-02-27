@@ -6,12 +6,12 @@ import MyNavbar from "../js/components/mynavbar";
 export const Home = () => {
    
     return (
-        <div>
+        <div className="container-nav">
 			<div>
-			<MyNavbar />
+			{/* <MyNavbar /> */}
+			{/* </div> */}
 			<div className="container-3"></div>
         <HomeJumbo />
-		{/* <MyNavbar /> */}
         <div className="row">
 					<Card
 						title="This is a Card Test!"
@@ -44,7 +44,6 @@ export const Home = () => {
 				</div>
 			</div>
         </div>
-     
     );
 };
 

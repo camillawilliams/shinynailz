@@ -11,8 +11,8 @@ export const HomeJumbo = () => (
         <div className="col-sm-6">
 </div>
     <div className="container-header">
-        <div className="col-sm-5">
-          <div className="container"></div>
+        {/* <div className="col-sm-5"> */}
+          <div className="container-test"></div>
           <MyNavbar />
       <h1>Nail Gel Is The New Trend In The Beauty World</h1>
       
@@ -25,7 +25,7 @@ export const HomeJumbo = () => (
       
   </div>
 </div>
-</div>
+{/* </div> */}
  </div>
 
 );
